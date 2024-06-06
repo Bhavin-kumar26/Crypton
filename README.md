@@ -12,4 +12,7 @@ Build with:
 » Coingecko API
 » Tailwind Css
 
+OUTPUT :
+![WhatsApp Image 2024-06-04 at 23 08 56_393dddbb](https://github.com/Bhavin-kumar26/Crypton/assets/154827005/12c8cd8b-adf3-4ceb-9c60-8077756a9320)
 
+![coin](https://github.com/Bhavin-kumar26/Crypton/assets/154827005/53b3b61c-5ecf-422a-a166-f5404f018bb1)
